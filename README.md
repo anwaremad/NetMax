@@ -112,7 +112,7 @@ Version 1.0 introduces:
 
 ## Developer
 
-Developed by Abdo Emad.
+Developed by Anwar Emad and Ai tools.
 
 ## License
 
